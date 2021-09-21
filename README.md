@@ -18,7 +18,9 @@ Single Playlist Screen Styles.css - It Consists the styling for the Single playl
 primary page responsive.css
 Secondary page responsive.css  } Both of them are the ressponive styling for both of the html pages
 
-Screenshots of the music player :-
+
+
+<h3>Screenshots of the music player :-<h3>
 
 ![image](https://user-images.githubusercontent.com/71114382/134119543-f22be9ca-3473-475c-9883-dd503296b9d6.png)
 
